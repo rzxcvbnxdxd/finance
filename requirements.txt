@@ -1,0 +1,6 @@
+customtkinter
+yfinance
+pandas
+pandas_ta
+google-generativeai
+matplotlib
